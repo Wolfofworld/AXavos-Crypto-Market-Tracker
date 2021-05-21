@@ -29,8 +29,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### UI screen for reference
 <img src='./images/Full_coin_list.png' alt='full view'/>
+  
+  <br><br>
+  * <b>Setting panel</b>
+  <br>
+  
 <img src='./images/setting.png' alt='setting'/>
+  
+   <br><br>
+  * <b> Dashboard panel</b>
+  <br>
+  
 <img src='./images/Dashboard.png' alt='dashboard'/>
 
-### Thanks & references
+### Team
+  * Yash Kumar, Akhilesh, Naughty boy(Akash Kakran).
+  ### Thanks & references
 * Thanks to Udemy & Digital Hermits
